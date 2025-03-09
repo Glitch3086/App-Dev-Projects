@@ -12,7 +12,7 @@ The Weather Website project was developed as part of the App Dev 1 course. This 
 
 ## Technologies Used
 - **Front-End:** HTML, CSS, JavaScript
-- **Back-End:** [Specify your back-end technology here, e.g., Node.js/Express]
+- **Back-End:** Node.js
 - **Database:** MongoDB
 - **APIs:** Weather API (e.g., OpenWeatherMap API)
 - **Version Control:** Git
